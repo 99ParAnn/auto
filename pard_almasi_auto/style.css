@@ -1,0 +1,30 @@
+#szoveg1 {
+    font-weight: bold; 
+    color: white;      
+}
+
+#szoveg2 {
+    color: black;     
+    background-color: red; 
+    font-weight: bold; 
+}
+
+#szoveg3 {
+    color: white;     
+    background-color: darkblue;
+}
+body {
+    background-color: black;
+    color: white; 
+}
+.footer {
+    position: fixed; 
+    bottom: 0;       
+    right: 875px;         
+    width: 100%;     
+    background-color: black; 
+    color: white;    
+    text-align: center; 
+    padding: 10px; 
+}
+
